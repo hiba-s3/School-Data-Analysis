@@ -63,7 +63,7 @@ The report (`School_analysis.pdf`) includes:
 
 - **Name**: Hiba  
 - **Role**: Data Analyst / Trainee  
-- **Project Type**: Training Task (Task 3)
+
 
 ---
 
