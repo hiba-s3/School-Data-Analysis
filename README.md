@@ -12,7 +12,7 @@ This project presents an **exploratory data analysis (EDA)** of public general e
 - **`School_anlaysis.ipynb`**: A Jupyter Notebook containing the full data analysis, preprocessing, and visualizations.
 - **`School_analysis.pdf`**: The final report summarizing the findings, interpretations, and recommendations.
 - **`image.png`**: One of the visualizations used in the report/notebook.
-- **`School_analysis.docx`**: Editable version of the report (optional).
+
 
 ---
 
